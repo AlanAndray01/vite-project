@@ -13,7 +13,7 @@ import { useGLTF, useTexture } from '@react-three/drei';
 import { noChangeParts } from '../../constants';
 import useWindowsStore from '../../store/store';
 import { useEffect } from 'react';
-import { Color } from 'three';
+// import { Color } from 'three';
 import {Color, SRGBColorSpace} from 'three'
 
 
